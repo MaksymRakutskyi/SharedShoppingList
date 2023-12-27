@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "908598857367",
+    "firebase_url": "https://sharedshoppinglistdatabase-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "sharedshoppinglistdatabase",
+    "storage_bucket": "sharedshoppinglistdatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908598857367:android:cc8c42cf084b5b7fe623d2",
+        "android_client_info": {
+          "package_name": "com.example.sharedshoppinglist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR_ZWwKrLw6ckOw1N0jUJBpPOjhGMZ08M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

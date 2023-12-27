@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SharedShoppingList</string>
+
+    <string name="crate_demo_list">Створити демо список</string>
+    <string name="mark_all">Відмітити всі</string>
+    <string name="delete">Видалити</string>
+    <string name="refresh">Оновити</string>
+    <string name="save">Зберегти</string>
+    <string name="marked">Придбано</string>
+    <string name="name">Назва</string>
+    <string name="quantity">Кількість</string>
+
+    <string name="shopping_list_title">Список покупок</string>
+    <string name="shopping_item_title">Товар</string>
+</resources>

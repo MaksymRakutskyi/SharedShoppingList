@@ -1,0 +1,31 @@
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/red"
+    tools:context="com.example.sharedshoppinglist.MainActivity">
+    <item
+        android:id="@+id/action_refresh"
+        android:orderInCategory="0"
+        android:title="@string/refresh"
+        android:background="@color/white"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_crate_demo_list"
+        android:orderInCategory="1"
+        android:title="@string/crate_demo_list"
+        android:background="@color/white"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_mark_all"
+        android:orderInCategory="2"
+        android:title="@string/mark_all"
+        android:background="@color/white"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_delete"
+        android:orderInCategory="3"
+        android:title="@string/delete"
+        android:background="@color/white"
+        app:showAsAction="never" />
+</menu>
